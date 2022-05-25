@@ -1,0 +1,17 @@
+{
+  "profileName": "test-bot",
+  "jobId": "d064ea5a-fb88-41ac-b6aa-fafbcbea988b",
+  "projectId": "80267.360920602",
+  "time": "2022-05-18T19:01:41.135Z",
+  "log": [
+    "Creating Azure resources...",
+    "Checking the Existence of the Resource Group ...",
+    "Use the Resource Group: test-rg at eastus",
+    "> Creating App Registration ...",
+    "Start to add password for App, Id : 20b15e1f-e6d1-4f5c-b8da-9f73b35c8320",
+    "> Create App Registration Success! ID: 20b15e1f-e6d1-4f5c-b8da-9f73b35c8320",
+    "Deploying Web App Resource ...",
+    "Deploying Bot Resource ...",
+    "Provisioning completed successfully!"
+  ]
+}
